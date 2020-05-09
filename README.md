@@ -1,6 +1,6 @@
 # :tada:  react-native-boilerplate :tada:
 
-## Dependencies :zap:
+## Dependencies :package:
 
 + :white_check_mark: axios
 + :white_check_mark: lodash
@@ -13,4 +13,9 @@
 + :white_check_mark: redux
 + :white_check_mark:redux-logger
 + :white_check_mark:redux-persist
+
+####Clone the repo :arrow_down:
+
+:zap: ```npm i```
+:rocket: ``` npm start``` 
 
