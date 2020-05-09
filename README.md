@@ -1,15 +1,16 @@
-# react-native-boilerplate
+# :tada:  react-native-boilerplate :tada:
 
-## Dependencies
+## Dependencies :zap:
 
-* axios: "^0.19.2",
-* lodash: "^4.17.15",
-* react": "16.11.0",
-* react-content-loader: "^5.0.4",
-* react-native: "0.62.2",
-* react-native-optimized-flatlist: "^1.0.4",
-* react-native-vector-icons: "^6.6.0",
-* react-navigation: "^2.18.3",
-* react-redux: "^7.2.0",
-* redux: "^4.0.5",
-* redux-logger: "^3.0.6"
++ :white_check_mark: axios
++ :white_check_mark: lodash
++ :white_check_mark: react
++ :white_check_mark: react-content-loader
++ :white_check_mark: react-native-optimized-flatlist
++ :white_check_mark: react-native-vector-icons
++ :white_check_mark: react-navigation
++ :white_check_mark: react-redux
++ :white_check_mark: redux
++ :white_check_mark:redux-logger
++ :white_check_mark:redux-persist
+
